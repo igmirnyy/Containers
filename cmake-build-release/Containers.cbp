@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Containers"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Generator">
+				<Option output="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 Generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Generator/fast">
+				<Option output="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 Generator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Containers">
+				<Option output="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Containers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 Containers"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Containers/fast">
+				<Option output="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Containers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/igormirnyj/CLionProjects/Containers/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 Containers/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/Experiments.h">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/TimeLogger.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/TimeLogger.h">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/data.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/data.h">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/find.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/generator.cpp">
+			<Option target="Generator"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/main.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/pop_back.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/pop_front.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/push_back.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/push_front.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/sort.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/igormirnyj/CLionProjects/Containers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

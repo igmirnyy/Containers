@@ -1,0 +1,4 @@
+/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/CMakeFiles/Generator.dir
+/Users/igormirnyj/CLionProjects/Containers/cmake-build-release/CMakeFiles/Containers.dir

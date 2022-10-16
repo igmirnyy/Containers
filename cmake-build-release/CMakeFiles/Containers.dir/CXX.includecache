@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/igormirnyj/CLionProjects/Containers/Experiments.h
+data.h
+/Users/igormirnyj/CLionProjects/Containers/data.h
+TimeLogger.h
+/Users/igormirnyj/CLionProjects/Containers/TimeLogger.h
+algorithm
+/Users/igormirnyj/CLionProjects/Containers/algorithm
+
+/Users/igormirnyj/CLionProjects/Containers/TimeLogger.h
+iostream
+-
+fstream
+-
+
+/Users/igormirnyj/CLionProjects/Containers/data.h
+iostream
+-
+fstream
+-
+string
+-
+list
+-
+vector
+-
+deque
+-
+
+/Users/igormirnyj/CLionProjects/Containers/find.cpp
+Experiments.h
+/Users/igormirnyj/CLionProjects/Containers/Experiments.h
+
+/Users/igormirnyj/CLionProjects/Containers/main.cpp
+Experiments.h
+/Users/igormirnyj/CLionProjects/Containers/Experiments.h
+
